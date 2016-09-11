@@ -4584,16 +4584,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="-4.1854033"
-     inkscape:cy="463.11173"
+     inkscape:zoom="6.364247"
+     inkscape:cx="516.31569"
+     inkscape:cy="60.645283"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g6253"
      showgrid="false"
-     inkscape:window-width="1916"
-     inkscape:window-height="1033"
-     inkscape:window-x="0"
-     inkscape:window-y="22"
+     inkscape:window-width="1441"
+     inkscape:window-height="726"
+     inkscape:window-x="17"
+     inkscape:window-y="0"
      inkscape:window-maximized="0"
      units="cm"
      showguides="true"
@@ -5626,7 +5626,7 @@
          ry="0.10778607" />
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.49336553px;line-height:125%;font-family:sans;-inkscape-font-specification:sans;letter-spacing:0.34933656px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.75px;line-height:125%;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';letter-spacing:0.34933656px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;"
          x="414.58133"
          y="960.80066"
          id="text14195"
@@ -5635,7 +5635,7 @@
            id="tspan14197"
            x="414.58133"
            y="960.80066"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Source Han Sans CN';-inkscape-font-specification:'Source Han Sans CN Bold';letter-spacing:0px;fill:#ffffff;fill-opacity:1">Tsinghua University TUNA Association</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';letter-spacing:0px;fill:#ffffff;fill-opacity:1;font-size:3.75px;">Tsinghua University TUNA Association</tspan></text>
       <path
          inkscape:connector-curvature="0"
          id="path14199"
@@ -5727,11 +5727,13 @@
          x="86.081467"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.11172676px;line-height:125%;font-family:sans;-inkscape-font-specification:sans;letter-spacing:0.71117276px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Source Han Sans CN';-inkscape-font-specification:'Source Han Sans CN Bold';letter-spacing:0px;fill:#ffffff;fill-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Source Han Sans CN';-inkscape-font-specification:'Source Han Sans CN Bold';letter-spacing:0px;fill:#ffffff;fill-opacity:1;font-size:6.95823052px"
            y="1005.4381"
            x="86.081467"
            id="tspan5122-6"
-           sodipodi:role="line">Tsinghua University TUNA Association</tspan></text>
+           sodipodi:role="line"><tspan
+   style="-inkscape-font-specification:'Roboto Bold';font-family:Roboto;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:6.95823052px"
+   id="tspan5070">Tsinghua University</tspan> TUNA Association</tspan></text>
       <path
          d="m 123.04887,980.41159 c 0,8.84369 2.35498,11.90749 6.49122,11.90749 2.21518,0 3.87576,-0.2358 5.41895,-0.71 l 0,0.3436 c -1.75487,0.6455 -3.78606,1.1086 -6.09424,1.1086 -3.78476,0 -12.46351,0 -12.46351,-13.01896 l 0,-28.35758 -9.35143,0 0,-6.09357 9.35143,0 0,-13.01804 6.64758,0 0,13.01804 11.91017,0 0,6.09357 -11.91017,0 0,28.72685 z"
          style="display:inline;fill:#2f4b68;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -6076,9 +6078,9 @@
          id="text10951"
          y="960.80066"
          x="414.58133"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.49336553px;line-height:125%;font-family:sans;-inkscape-font-specification:sans;letter-spacing:0.34933656px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.75px;line-height:125%;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';letter-spacing:0.34933656px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Source Han Sans CN';-inkscape-font-specification:'Source Han Sans CN Bold';letter-spacing:0px;fill:#ffffff;fill-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.75px;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';letter-spacing:0px;fill:#ffffff;fill-opacity:1"
            y="960.80066"
            x="414.58133"
            id="tspan10953"
